@@ -67,6 +67,8 @@ ul li {
     background: #171100;
 }
 
+/* ===========================Hero=========================== */
+
 .hero {
     display: flex;
     align-items: center;
@@ -175,6 +177,8 @@ ul li {
     margin-right: 1.75rem;
     line-height: 1.875rem; /* 166.667% */
 }
+
+/* ===========================Popular=========================== */
 
 .popular {
     padding: 12.5rem 0;
